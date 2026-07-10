@@ -125,12 +125,15 @@ eventually work at the intersection of applied AI and systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srijansil2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=srijansil2006&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijansil2006&theme=tokyonight" width="98%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijansil2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srijansil2006&theme=tokyonight" width="49%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=srijansil2006&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srijansil2006&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srijansil2006&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=srijansil2006&theme=tokyonight&no-frame=true&column=7" width="98%"/>
 
 </div>
 
